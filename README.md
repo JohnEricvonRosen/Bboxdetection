@@ -1,5 +1,6 @@
 # Bboxdetection
-Python bounding box detection
+Python 3.6
+These programs generate bounding boxes for pictures of particles. 
 
 datagen.py takes creates training data from ImageJ roi annotations. It is important to avoid annotations that have concave shapes. The annotation should not move 'inside' itself.  
 
